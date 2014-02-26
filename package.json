@@ -1,6 +1,6 @@
 {
   "name": "jsonldify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A wrapper for using jsonld library with browserify",
   "main": "index.js",
   "repository": {
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/nopnop/jsonldify",
   "dependencies": {
     "through": "~2.3.4"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
