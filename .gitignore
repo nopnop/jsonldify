@@ -1,9 +1,2 @@
 .DS_Store
 /node_modules
-/lib-cov
-/novahub_web.todo
-/npm-debug.log
-/.tmp
-/dist
-/bower_components
-
