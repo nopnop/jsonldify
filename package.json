@@ -20,5 +20,8 @@
   "homepage": "https://github.com/nopnop/jsonldify",
   "dependencies": {
     "through": "~2.3.4"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
