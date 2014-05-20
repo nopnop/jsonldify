@@ -1,6 +1,6 @@
 {
   "name": "jsonldify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A wrapper for using jsonld library with browserify",
   "main": "index.js",
   "repository": {
